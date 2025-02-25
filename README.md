@@ -32,7 +32,8 @@ Quality Assurance Engineer: This is the expert who directly uses the software in
 Project Manager: The expert who identifies the problems, and then assigns them to the Software developer for solution.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
- 
+IDEs are software applications that provide a comprehensive development environment for writing, debugging, and testing code. The importance of IDEs lies in their ability to: Improve coding efficiency, enhance debugging capabilities, and support project management. Popular examples include Eclipse and Visual Studios.
+VCS are software tools that help developers manage changes to their codebase over time. The importance of VCS lies in their ability to: Track changes, Collaborate on code, and manage different versions. Popular examples include Git, Mercurial, and Subversion.
  
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -41,12 +42,23 @@ Complex requirements that can be overcome by using domain-driven design.
 Debugging and troubleshooting, that can be overcome by collaboration with colleagues
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit testing: Tests individual modules or functions in isolation. It ensures that the basic building blocks of software are functioning correctly.
+Integration testing: tests how different modules interact with each other. It verifies that modules can work together seamlessly.
+System testing: Tests the entire software system as a whole. It ensures that the software meets its functional and non-functional requirements.
+Acceptance testing: Tests the software from the end-user's perspective. It vPerifies that the software meets the requirements defined by stakeholders.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt is a piece of text, voice, or image fed into a language model to generate natural language responses. Hence, Prompt Engineering is the process of crafting effective and informative text instructions or prompts to guide AI models in performing a desired task.
+Enhances Model Accuracy: Well-crafted prompts provide the AI model with a specific understanding of the task, reducing ambiguity and improving the overall accuracy of its results.
+Facilitates Communication: Clear and concise prompts facilitate smooth communication between humans and AI models, making it easier to convey complex instructions and receive intelligible responses.
+Improves User Interface: Prompts act as the interface between the user and the AI model, enabling intuitive and user-friendly interactions.
+Controls Model Bias: Prompts can influence the model's behavior by guiding it towards desired outcomes or mitigating biases present in the training data.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: What is the name of a US President?
+Clear Prompt: What is the name of the first Black American President?
+
+
